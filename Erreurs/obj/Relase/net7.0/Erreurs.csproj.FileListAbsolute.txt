@@ -1,0 +1,5 @@
+C:\Users\nathan.legrand\OneDrive - Magellan Partners\Documents\Code\C#\Erreurs\obj\Relase\net7.0\Erreurs.csproj.AssemblyReference.cache
+C:\Users\nathan.legrand\OneDrive - Magellan Partners\Documents\Code\C#\Erreurs\obj\Relase\net7.0\Erreurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nathan.legrand\OneDrive - Magellan Partners\Documents\Code\C#\Erreurs\obj\Relase\net7.0\Erreurs.AssemblyInfoInputs.cache
+C:\Users\nathan.legrand\OneDrive - Magellan Partners\Documents\Code\C#\Erreurs\obj\Relase\net7.0\Erreurs.AssemblyInfo.cs
+C:\Users\nathan.legrand\OneDrive - Magellan Partners\Documents\Code\C#\Erreurs\obj\Relase\net7.0\Erreurs.csproj.CoreCompileInputs.cache
